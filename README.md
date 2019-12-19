@@ -2,7 +2,7 @@
 liveColorfully is designed for understanding socket server with react native.
 The only thing that you do is just edit "local Ip address" to your local Ip address.
 <br>
-<img src="https://github.com/isahanoncel/liveColorfully-/blob/master/docs/ss2.png" width="800">
+<img src="https://github.com/isahanoncel/liveColorfully/blob/master/docs/ss2.png" width="800">
 
 # If You Don't Know Your Local Ip Address
 Windows :
@@ -16,6 +16,6 @@ Look to the right, and you’ll see a sentence that looks like “...is connecte
 liveColorfully exchanges data instantly between server and client. <br>
 You can see the number of active users on top of screen. <br>
 if you press anywhere of the screen,liveColorfully will change background color randomly for all of users with the same time.
-<img src="https://github.com/isahanoncel/liveColorfully-/blob/master/docs/gif.gif" width="500">
-<img src="https://github.com/isahanoncel/liveColorfully-/blob/master/docs/ss1.png" width="500">
+<img src="https://github.com/isahanoncel/liveColorfully/blob/master/docs/gif.gif" width="500">
+<img src="https://github.com/isahanoncel/liveColorfully/blob/master/docs/ss1.png" width="500">
 
